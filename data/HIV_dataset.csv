@@ -1,0 +1,699 @@
+﻿ID,Name,Age,Location,Raw_Symptom,Raw_Behavior,Marital Staus,STD,Educational Background,HIV TEST IN PAST YEAR,AIDS education,Places of seeking sex partners,SEXUAL ORIENTATION,Drug- taking,Result
+0001,Vũ Quang Minh,22,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,YES,NO,Bar,Heterosexual,YES,POSITIVE
+0002,Đỗ An Trang,20,Hà Nội,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,College Degree,NO,YES,,Heterosexual,NO,NEGATIVE
+0003,Trần Lan Phương,23,Hà Nội,Sụt cân,Không hành vi nguy cơ,Married,YES,College Degree,NO,YES,,Bisexual,NO,NEGATIVE
+0004,Trần Hưng Minh,24,Vĩnh Long,Sụt cân,Quan hệ không bảo vệ,Married,NO,College Degree,YES,YES,Park,Heterosexual,YES,POSITIVE
+0005,Đặng Lan Lan,18,Bình Định,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Senior High School,YES,NO,Internet,Heterosexual,YES,POSITIVE
+0006,Phan Minh Nam,15,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Junior High School,NO,NO,Public bath,Bisexual,NO,NEGATIVE
+0007,Phan Trang Tuấn,15,Bình Định,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Junior High School,NO,NO,Public Bath,Heterosexual,YES,NEGATIVE
+0008,Lê Minh Hưng,15,Hà Nội,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,YES,NO,Public Bath,Bisexual,NO,POSITIVE
+0009,Vũ Linh Vy,15,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,YES,YES,Internet,Heterosexual,YES,POSITIVE
+0010,Lê Phương Châu,15,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0011,Hoàng Hưng Lan,15,Hải Phòng,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Illiteracy,NO,NO,Others,Homosexual,NO,POSITIVE
+0012,Trần Bình An,15,Nghệ An,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Junior High School,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0013,Bùi Tuấn Tuấn,15,Hà Nội,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Junior High School,YES,YES,Internet,Bisexual,YES,NEGATIVE
+0014,Nguyễn Phương Vy,15,Đồng Nai,Sốt,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0015,Phạm Châu Hà,15,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Others,Bisexual,NO,POSITIVE
+0016,Lê Minh Ngọc,15,Lâm Đồng,Sốt,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,YES,Public Bath,Homosexual,YES,NEGATIVE
+0017,Phan Trang Dũng,15,Thừa Thiên Huế,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0018,Đặng Phương Vy,15,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,NO,Others,Bisexual,YES,POSITIVE
+0019,Đỗ Vy Vy,15,Bình Dương,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0020,Đỗ Ngọc Vy,15,Hải Phòng,Sốt,Nhiều bạn tình,UNMARRIED,YES,Junior High School,YES,NO,Bar,Bisexual,NO,NEGATIVE
+0021,Hoàng Bình Bình,15,Bình Định,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Illiteracy,NO,YES,Others,Bisexual,YES,POSITIVE
+0022,Lê Dũng Tuấn,15,Bình Dương,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,YES,NO,Park,Homosexual,NO,NEGATIVE
+0023,Vũ Châu Châu,15,Quảng Ninh,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Others,Bisexual,NO,NEGATIVE
+0024,Phan Nam Minh,15,Đồng Nai,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,POSITIVE
+0025,Phan Ngọc Tuấn,23,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0026,Phạm Tuấn Nam,70,Bình Dương,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Others,Heterosexual,NO,NEGATIVE
+0027,Đỗ Châu Hà,44,Nghệ An,Sụt cân,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Others,Homosexual,NO,NEGATIVE
+0028,Trần Ngọc Minh,23,Bình Dương,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0029,Phạm Tuấn Bình,13,Bình Định,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,NO,Bar,Bisexual,YES,NEGATIVE
+0030,Nguyễn Tuấn Phương,19,Cần Thơ,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Senior High School,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0031,Hoàng Quang Bình,25,Hồ Chí Minh,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0032,Đặng An Quang,75,Bình Dương,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0033,Trần Vy Linh,50,Bình Định,Sốt,Không hành vi nguy cơ,Widowed,NO,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0034,Lê An Nam,76,Bình Dương,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,College Degree,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0035,Lê Châu Lan,24,Hải Phòng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0036,Trần Ngọc Bình,18,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0037,Phạm An An,34,Bình Dương,Sốt,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,NO,Park,Homosexual,NO,POSITIVE
+0038,Đặng Linh Lan,45,Nghệ An,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0039,Nguyễn Lan Ngọc,45,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,YES,Internet,Hetersexual,NO,POSITIVE
+0040,Vũ Vy Phương,56,Cần Thơ,Sốt,Quan hệ không bảo vệ,Divorced,YES,Senior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0041,Trần Linh Bình,27,Vĩnh Long,Sụt cân,Quan hệ không bảo vệ,Divorced,NO,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0042,Bùi Tuấn Nam,29,Khánh Hòa,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0043,Trần Phương Minh,40,Hải Phòng,Nổi hạch,Không hành vi nguy cơ,Widowed,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0044,Phan Hà Vy,78,Khánh Hòa,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0045,Phan Ngọc Dũng,16,Nghệ An,Sốt,Nhiều bạn tình,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0046,Phạm Hưng Minh,56,Đồng Nai,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0047,Phạm Quang Trang,26,Thanh Hóa,Nổi hạch,Nhiều bạn tình,Divorced,YES,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0048,Nguyễn Tuấn Nam,37,Hà Nội,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0049,Đặng Tuấn Hà,12,Quảng Ninh,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,Primary School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0050,Nguyễn Châu Ngọc,12,Vĩnh Long,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0051,Hoàng Nam Linh,67,Vĩnh Long,Nổi hạch,Nhiều bạn tình,MARRIED,YES,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0052,Phạm Vy Quang,37,Đồng Nai,Nổi hạch,Nhiều bạn tình,Divorced,NO,Junior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0053,Nguyễn Phương Vy,21,Đồng Nai,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0054,Bùi Tuấn Lan,30,Lâm Đồng,Sốt,Quan hệ không bảo vệ,Cohabiting,NO,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0055,Vũ Dũng Tuấn,78,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,Widowed,YES,College Degree,YES,YES,Internet,Bisexual,NO,POSITIVE
+0056,Vũ Minh Tuấn,23,Bình Định,Sốt,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0057,Hoàng Châu Tuấn,34,Lâm Đồng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0058,Phan Bình Bình,71,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,YES,Park,Heterosexual,YES,NEGATIVE
+0059,Lê Dũng Lan,25,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,Cohabiting,NO,College Degree,NO,YES,Internet,Homosexual,NO,POSITIVE
+0060,Hoàng Châu Minh,34,Khánh Hòa,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0061,Hoàng Tuấn Minh,16,Đà Nẵng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,YES,Internet,Bisexual,NO,POSITIVE
+0062,Đặng Hưng Nam,80,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0063,Phạm Nam Nam,35,Cần Thơ,Sốt,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,NO,Internet,Homosexual,YES,POSITIVE
+0064,Hoàng Minh Linh,45,Hồ Chí Minh,Sốt,Không hành vi nguy cơ,MARRIED,YES,Junior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0065,Hoàng Nam Minh,24,Hồ Chí Minh,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0066,Nguyễn Minh Ngọc,45,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0067,Trần An Trang,68,Đà Nẵng,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,Senior High School,YES,NO,Park,Heterosexual,YES,NEGATIVE
+0068,Vũ Hà Trang,30,Thừa Thiên Huế,Sốt,Tiêm chích ma túy,Cohabiting,YES,Junior High School,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0069,Phan Tuấn Ngọc,23,Thanh Hóa,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,NO,Bar,Bisexual,NO,POSITIVE
+0070,Đặng Ngọc Trang,50,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,YES,YES,Public Bath,Heterosexual,NO,NEGATIVE
+0071,Bùi Quang Hà,17,Vĩnh Long,Sốt,Nhiều bạn tình,UNMARRIED,NO,Junior High School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0072,Vũ An Minh,18,Đà Nẵng,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0073,Phan Nam Quang,25,Đà Nẵng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0074,Phạm Minh Châu,70,Bình Định,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Bisexual,NO,POSITIVE
+0075,Phạm Lan Trang,70,Cần Thơ,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Bisexual,YES,NEGATIVE
+0076,Đặng Phương Ngọc,38,Lâm Đồng,Sốt,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0077,Phạm Tuấn Nam,46,Bình Dương,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0078,Hoàng An Trang,42,Thanh Hóa,Sụt cân,Nhiều bạn tình,Cohabiting,YES,Senior High School,YES,NO,Internet,Heterosexual,YES,NEGATIVE
+0079,Lê Trang Tuấn,56,Cần Thơ,Nổi hạch,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0080,Phan Trang Châu,78,Thừa Thiên Huế,Sốt,Nhiều bạn tình,Divorced,YES,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0081,Trần Ngọc Lan,45,Hồ Chí Minh,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0082,Đỗ An Nam,41,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0083,Hoàng Trang Dũng,34,Nghệ An,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0084,Đặng Hưng Phương,34,Khánh Hòa,Sốt,Tiêm chích ma túy,UNMARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0085,Nguyễn Lan Phương,19,Quảng Ninh,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0086,Vũ Hưng Tuấn,67,Hà Nội,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0087,Trần Hưng Lan,28,Đà Nẵng,Sốt,Nhiều bạn tình,Divorced,YES,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0088,Phạm Linh Châu,45,Bình Định,Sụt cân,Tiêm chích ma túy,Divorced,NO,Senior High School,NO,YES,Park,Bisexual,NO,NEGATIVE
+0089,Lê Ngọc Linh,80,Bình Dương,Nổi hạch,Quan hệ không bảo vệ,Widowed,NO,Illiteracy,NO,NO,Park,Hetersexual,YES,NEGATIVE
+0090,Hoàng Lan Bình,15,Bình Định,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0091,Đặng Phương Bình,16,Thanh Hóa,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,YES,Public Bath,Homosexual,NO,POSITIVE
+0092,Trần Linh Lan,64,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,College Degree,YES,YES,Bar,Heterosexual,YES,NEGATIVE
+0093,Trần Tuấn Trang,69,Thanh Hóa,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0094,Đặng Phương Châu,44,Quảng Ninh,Sốt,Nhiều bạn tình,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,NO,POSITIVE
+0095,Nguyễn Linh Linh,56,Thanh Hóa,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Primary School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0096,Hoàng Bình Ngọc,73,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Others,Bisexual,YES,NEGATIVE
+0097,Lê Phương Hưng,14,Bình Định,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0098,Phan Nam Hà,25,Lâm Đồng,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0099,Lê Quang Ngọc,29,Hà Nội,Sụt cân,Tiêm chích ma túy,MARRIED,NO,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0100,Phạm Phương An,49,Bình Dương,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,YES,Public Bath,Homosexual,NO,POSITIVE
+0101,Trần Tuấn Quang,56,Cần Thơ,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Primary School,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0102,Phạm Vy An,43,Thanh Hóa,Sụt cân,Tiêm chích ma túy,Divorced,YES,Illiteracy,YES,NO,Park,Bisexual,NO,POSITIVE
+0103,Phan Bình Trang,47,Vĩnh Long,Sốt,Không hành vi nguy cơ,MARRIED,NO,Junior High School,NO,NO,Others,Homosexual,YES,NEGATIVE
+0104,Phạm Ngọc An,47,Bình Dương,Sốt,Nhiều bạn tình,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,NO,POSITIVE
+0105,Trần Tuấn Lan,38,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,YES,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0106,Nguyễn Dũng An,39,Đồng Nai,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,Primary School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0107,Trần An Lan,20,Quảng Ninh,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0108,Đỗ Vy Ngọc,22,Nghệ An,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Internet,Heterosexual,YES,NEGATIVE
+0109,Đỗ Vy Hà,30,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0110,Đặng Lan An,36,Thừa Thiên Huế,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Senior High School,YES,YES,Bar,Homosexual,YES,NEGATIVE
+0111,Lê Tuấn Châu,31,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,Cohabiting,YES,Junior High School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0112,Phạm Quang Phương,13,Quảng Ninh,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0113,Phạm Lan Tuấn,32,Bình Dương,Sốt,Quan hệ không bảo vệ,Divorced,YES,Primary School,YES,NO,Bar,Bisexual,YES,NEGATIVE
+0114,Đỗ Hưng Phương,21,Nghệ An,Nổi hạch,Nhiều bạn tình,MARRIED,NO,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0115,Nguyễn Vy Minh,27,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0116,Trần Minh Phương,79,Đồng Nai,Sụt cân,Không hành vi nguy cơ,Widowed,NO,Illiteracy,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0117,Lê Bình Trang,17,Cần Thơ,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,NO,NO,Park,Heterosexual,NO,POSITIVE
+0118,Phan Phương Nam,56,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0119,Bùi Quang Dũng,39,Bình Định,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Primary School,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0120,Đặng Trang An,40,Bình Dương,Sụt cân,Tiêm chích ma túy,Divorced,YES,Senior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0121,Đỗ Phương Bình,21,Bình Định,Sốt,Không hành vi nguy cơ,Cohabiting,NO,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0122,Đỗ Vy Tuấn,18,Thừa Thiên Huế,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0123,Bùi Châu Trang,57,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0124,Bùi Ngọc Lan,34,Hải Phòng,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0125,Phạm Ngọc Tuấn,45,Đồng Nai,Sốt,Quan hệ không bảo vệ,Divorced,NO,Junior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0126,Phan Ngọc Dũng,45,Đồng Nai,Sụt cân,Không hành vi nguy cơ,Divorced,NO,Junior High School,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0127,Phan Linh Dũng,70,Hà Nội,Sốt,Không hành vi nguy cơ,MARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0128,Phan Minh Bình,51,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0129,Lê Quang Dũng,16,Quảng Ninh,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Junior High School,NO,NO,Bar,Homosexual,YES,NEGATIVE
+0130,Phạm Bình Vy,34,Đà Nẵng,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0131,Hoàng Nam Linh,38,Nghệ An,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Internet,Bisexual,NO,POSITIVE
+0132,Đỗ Ngọc Hưng,29,Hồ Chí Minh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,YES,Internet,Bisexual,YES,NEGATIVE
+0133,Vũ Linh Trang,21,Nghệ An,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0134,Trần An Phương,28,Lâm Đồng,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0135,Nguyễn Nam Ngọc,36,Hồ Chí Minh,Sụt cân,Quan hệ không bảo vệ,Cohabiting,NO,College Degree,NO,NO,Internet,Heterosexual,YES,POSITIVE
+0136,Lê Hưng Linh,23,Vĩnh Long,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0137,Vũ Tuấn Phương,34,Vĩnh Long,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,College Degree,YES,YES,Park,Homosexual,YES,NEGATIVE
+0138,Đặng Quang Bình,38,Lâm Đồng,Sụt cân,Nhiều bạn tình,Divorced,YES,Primary School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0139,Phan Quang Minh,24,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0140,Đặng Ngọc An,14,Khánh Hòa,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0141,Hoàng Vy Châu,80,Cần Thơ,Sụt cân,Không hành vi nguy cơ,Widowed,NO,Primary School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0142,Trần Bình Minh,25,Thanh Hóa,Sốt,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0143,Trần An Ngọc,25,Lâm Đồng,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0144,Vũ Hà Hưng,27,Đồng Nai,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Senior High School,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0145,Trần Hưng An,38,Cần Thơ,Sốt,Nhiều bạn tình,MARRIED,YES,College Degree,YES,NO,Bar,Heterosexual,NO,POSITIVE
+0146,Trần Nam An,40,Bình Dương,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0147,Phan Lan Ngọc,45,Bình Dương,Sụt cân,Tiêm chích ma túy,Widowed,YES,Primary School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0148,Nguyễn Nam Quang,41,Quảng Ninh,Nổi hạch,Nhiều bạn tình,MARRIED,YES,Senior High School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0149,Hoàng Ngọc Dũng,48,Cần Thơ,Sốt,Tiêm chích ma túy,MARRIED,YES,College Degree,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0150,Trần Minh Bình,51,Nghệ An,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0151,Đặng Minh Trang,34,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0152,Đặng Phương Lan,47,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,College Degree,YES,NO,Internet,Homosexual,YES,POSITIVE
+0153,Phan Hưng Linh,38,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0154,Vũ Lan Phương,39,Thừa Thiên Huế,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,College Degree,NO,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0155,Nguyễn Ngọc Bình,20,Cần Thơ,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0156,Phan Hưng Phương,22,Hải Phòng,Nổi hạch,Nhiều bạn tình,Widowed,NO,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0157,Lê Nam Châu,30,Hồ Chí Minh,Sụt cân,Quan hệ không bảo vệ,DIvorced,NO,Illiteracy,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0158,Vũ Linh Tuấn,36,Hồ Chí Minh,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0159,Đặng Phương Hưng,31,Bình Dương,Sốt,Tiêm chích ma túy,DIvorced,YES,Primary School,NO,NO,Public Bath,BIsexual,YES,POSITIVE
+0160,Trần Minh Phương,13,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,NO,,Heterosexual,NO,NEGATIVE
+0161,Đỗ Bình Linh,32,Hải Phòng,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0162,Phạm Tuấn Ngọc,21,Đồng Nai,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0163,Vũ Hưng Vy,27,Lâm Đồng,Sụt cân,Nhiều bạn tình,MARRIED,NO,College Degree,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0164,Phan Nam Vy,79,Cần Thơ,Sụt cân,Không hành vi nguy cơ,Widowed,NO,Illiteracy,YES,NO,Others,Heterosexual,YES,NEGATIVE
+0165,Trần Nam Minh,17,Lâm Đồng,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,YES,NO,Park,Heterosexual,YES,POSITIVE
+0166,Đặng Hưng Linh,56,Cần Thơ,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,NO,NO,Bar,Homosexual,YES,NEGATIVE
+0167,Nguyễn Lan Dũng,39,Đà Nẵng,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,YES,NEGATIVE
+0168,Lê Dũng An,40,Lâm Đồng,Nổi hạch,Tiêm chích ma túy,Divorced,YES,Senior High School,YES,YES,Public Bath,Heterosexual,NO,POSITIVE
+0169,Hoàng An Hà,21,Đà Nẵng,Sụt cân,Không hành vi nguy cơ,Cohabiting,YES,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0170,Đỗ Lan Minh,18,Bình Dương,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,NO,Internet,Homosexual,YES,POSITIVE
+0171,Nguyễn Bình Châu,57,Khánh Hòa,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0172,Phan Châu Ngọc,34,Hải Phòng,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0173,Phan Hà Lan,25,Hà Nội,Sụt cân,Nhiều bạn tình,MARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0174,Đỗ Hà Nam,70,Đồng Nai,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,NO,Public Bath,Bisexual,YES,POSITIVE
+0175,Phạm Dũng Trang,70,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,YES,Public Bath,Bisexual,YES,POSITIVE
+0176,Vũ Linh Châu,38,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,YES,Park,Heterosexual,YES,NEGATIVE
+0177,Bùi Dũng Vy,46,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0178,Nguyễn Linh Phương,42,Lâm Đồng,Sốt,Không hành vi nguy cơ,Cohabiting,YES,Senior High School,YES,NO,Internet,Heterosexual,NO,NEGATIVE
+0179,Hoàng Ngọc Trang,56,Thừa Thiên Huế,Sụt cân,Nhiều bạn tình,Widowed,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0180,Lê Quang Minh,78,Đà Nẵng,Sốt,Quan hệ không bảo vệ,Divorced,NO,College Degree,YES,YES,Internet,Heterosexual,YES,POSITIVE
+0181,Lê Tuấn Bình,45,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Primary School,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0182,Trần Hà Hưng,41,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0183,Đặng Nam Phương,34,Hồ Chí Minh,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0184,Đặng Tuấn Nam,34,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,YES,YES,Internet,Bisexual,YES,POSITIVE
+0185,Phan Bình Vy,19,Hải Phòng,Sụt cân,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0186,Lê Trang Trang,67,Hà Nội,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0187,Đỗ Ngọc Nam,28,Vĩnh Long,Sốt,Quan hệ không bảo vệ,Divorced,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0188,Đỗ Tuấn Trang,45,Bình Định,Sụt cân,Không hành vi nguy cơ,Divorced,YES,Senior High School,YES,NO,Park,Bisexual,YES,NEGATIVE
+0189,Phạm Châu Tuấn,33,Đồng Nai,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0190,Vũ Ngọc Vy,29,Bình Dương,Nổi hạch,Tiêm chích ma túy,Divorced,NO,Senior High School,NO,YES,Bar,Homosexual,NO,POSITIVE
+0191,Phan Ngọc Vy,59,Hà Nội,Sụt cân,Không hành vi nguy cơ,Divorced,NO,Junior High School,YES,YES,,Heterosexual,NO,NEGATIVE
+0192,Vũ Hà Hà,30,Lâm Đồng,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,NO,Park,Bisexual,NO,NEGATIVE
+0193,Bùi Châu Vy,35,Hà Nội,Sốt,Không hành vi nguy cơ,MARRIED,NO,Illiteracy,YES,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0194,Trần Bình Quang,71,Khánh Hòa,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Others,Heterosexual,NO,POSITIVE
+0195,Phan Dũng Quang,62,Lâm Đồng,Sốt,Không hành vi nguy cơ,Divorced,YES,Illiteracy,NO,NO,Others,Homosexual,YES,NEGATIVE
+0196,Nguyễn Trang Tuấn,54,Bình Định,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Dregree,NO,YES,,Heterosexual,YES,NEGATIVE
+0197,Bùi Linh Hưng,44,Hồ Chí Minh,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Primary School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0198,Đặng Tuấn Nam,52,Khánh Hòa,Nổi hạch,Tiêm chích ma túy,Widowed,YES,College Dregree,NO,YES,Public Bath,Bisexual,NO,NEGATIVE
+0199,Phạm Minh Hà,67,Vĩnh Long,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,NO,Others,Bisexual,NO,NEGATIVE
+0200,Đỗ Hưng Phương,41,Bình Định,Sụt cân,Tiêm chích ma túy,Divorced,NO,Junior High School,YES,NO,,Bisexual,NO,NEGATIVE
+0201,Nguyễn Quang Bình,24,Hà Nội,Sốt,Tiêm chích ma túy,MARRIED,YES,Senior High School,YES,NO,Internet,Homosexual,YES,NEGATIVE
+0202,Đặng Tuấn Trang,40,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,College Dregree,YES,NO,Internet,Homosexual,YES,POSITIVE
+0203,Trần Trang Hưng,41,Khánh Hòa,Nổi hạch,Nhiều bạn tình,Divorced,YES,Senior High School,NO,YES,Park,Heterosexual,NO,NEGATIVE
+0204,Trần Quang Trang,61,Cần Thơ,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Public Bath,Homosexual,YES,NEGATIVE
+0205,Nguyễn Vy Châu,58,Đồng Nai,Sốt,Quan hệ không bảo vệ,Widowed,NO,College Dregree,NO,YES,Others,Heterosexual,NO,NEGATIVE
+0206,Đặng Bình Hưng,53,Bình Định,Nổi hạch,Quan hệ không bảo vệ,Widowed,NO,Junior High School,NO,NO,,Bisexual,NO,NEGATIVE
+0207,Đỗ Minh Hà,27,Cần Thơ,Sốt,Quan hệ không bảo vệ,Widowed,YES,College Dregree,YES,NO,Internet,Homosexual,NO,POSITIVE
+0208,Phan Hà Châu,62,Cần Thơ,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,YES,Internet,Bisexual,YES,POSITIVE
+0209,Nguyễn Châu Vy,50,Đà Nẵng,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Primary School,YES,YES,,Heterosexual,NO,POSITIVE
+0210,Phạm Nam Trang,24,Hải Phòng,Sốt,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Heterosexual,YES,POSITIVE
+0211,Phạm Tuấn Lan,75,Vĩnh Long,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,YES,NO,Park,Bisexual,NO,POSITIVE
+0212,Bùi Dũng Châu,23,Hồ Chí Minh,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,YES,Bar,Heterosexual,NO,POSITIVE
+0213,Phạm Phương Dũng,60,Bình Dương,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,YES,YES,,Heterosexual,NO,POSITIVE
+0214,Hoàng Hưng Linh,65,Đà Nẵng,Sốt,Quan hệ không bảo vệ,Divorced,NO,Senior High School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0215,Phan Bình An,25,Hà Nội,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Public Bath,Bisexual,YES,POSITIVE
+0216,Đặng Tuấn Ngọc,26,Cần Thơ,Sụt cân,Không hành vi nguy cơ,Divorced,NO,Illiteracy,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0217,Phan Bình Châu,54,Thừa Thiên Huế,Sốt,Quan hệ không bảo vệ,Divorced,NO,Illiteracy,NO,YES,Internet,Homosexual,NO,NEGATIVE
+0218,Lê Lan Nam,54,Nghệ An,Nổi hạch,Nhiều bạn tình,Divorced,NO,Senior High School,YES,NO,Public Bath,Heterosexual,NO,NEGATIVE
+0219,Phan Linh Dũng,33,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,,Homosexual,YES,POSITIVE
+0220,Bùi Dũng Quang,26,Cần Thơ,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,College Dregree,NO,YES,Park,Bisexual,YES,POSITIVE
+0221,Nguyễn Quang Quang,75,Bình Định,Sốt,Tiêm chích ma túy,MARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,POSITIVE
+0222,Hoàng Bình Hưng,59,Vĩnh Long,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Bisexual,NO,POSITIVE
+0223,Trần Quang Quang,66,Đồng Nai,Sụt cân,Không hành vi nguy cơ,Widowed,YES,Illiteracy,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0224,Hoàng Hà Hà,27,Quảng Ninh,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0225,Hoàng An Minh,56,Hà Nội,Sốt,Quan hệ không bảo vệ,Widowed,YES,College Degree,NO,YES,Others,Bisexual,YES,POSITIVE
+0226,Hoàng Quang Tuấn,66,Hải Phòng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,YES,NEGATIVE
+0227,Nguyễn Hà Lan,47,Bình Dương,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,College Degree,NO,NO,Internet,Bisexual,NO,NEGATIVE
+0228,Lê Hà Lan,29,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Junior High School,YES,YES,Bar,Homosexual,NO,NEGATIVE
+0229,Phạm Bình Hưng,69,Đà Nẵng,Nổi hạch,Nhiều bạn tình,Divorced,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0230,Bùi Tuấn Hà,54,Thừa Thiên Huế,Sốt,Nhiều bạn tình,Widowed,YES,College Dregree,NO,YES,Park,Heterosexual,NO,NEGATIVE
+0231,Phạm Tuấn Hưng,32,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,YES,Park,Homosexual,YES,POSITIVE
+0232,Đặng Minh Dũng,47,Bình Định,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,College Degree,NO,YES,Park,Heterosexual,YES,POSITIVE
+0233,Đặng Lan Lan,70,Lâm Đồng,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0234,Lê Phương Dũng,55,Bình Dương,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,NO,Others,Homosexual,NO,NEGATIVE
+0235,Nguyễn Lan Phương,23,Khánh Hòa,Sốt,Tiêm chích ma túy,Divorced,YES,Illiteracy,NO,YES,Public Bath,Homosexual,YES,POSITIVE
+0236,Phạm Linh An,65,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Primary School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0237,Đặng An Dũng,34,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Primary School,NO,YES,Bar,Bisexual,NO,POSITIVE
+0238,Phan Châu Minh,22,Hà Nội,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Dregree,YES,NO,Park,Heterosexual,NO,NEGATIVE
+0239,Đặng Hà Minh,67,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Divorced,YES,College Degree,YES,NO,Public Bath,Homosexual,YES,NEGATIVE
+0240,Phạm Hà Minh,31,Cần Thơ,Sốt,Quan hệ không bảo vệ,Widowed,NO,College Dregree,YES,NO,Public Bath,Bisexual,YES,POSITIVE
+0241,Lê Ngọc Trang,56,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,College Dregree,NO,NO,Bar,Bisexual,YES,POSITIVE
+0242,Đặng Quang An,62,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0243,Nguyễn Nam Hà,36,Đà Nẵng,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,College Dregree,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0244,Phan Bình Quang,59,Lâm Đồng,Sốt,Tiêm chích ma túy,UNMARRIED,YES,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0245,Đỗ Trang Tuấn,41,Quảng Ninh,Sụt cân,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,YES,,Bisexual,YES,POSITIVE
+0246,Đỗ Phương Quang,65,Hải Phòng,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Primary School,NO,YES,Park,Bisexual,YES,POSITIVE
+0247,Phạm Phương Trang,59,Đồng Nai,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Dregree,YES,YES,Park,Homosexual,NO,NEGATIVE
+0248,Lê An Linh,24,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,YES,POSITIVE
+0249,Đỗ Hưng Linh,23,Hải Phòng,Nổi hạch,Nhiều bạn tình,MARRIED,YES,College Dregree,YES,YES,Park,Bisexual,NO,NEGATIVE
+0250,Phan Tuấn Trang,18,Quảng Ninh,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0251,Phạm Trang Châu,30,Vĩnh Long,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Bar,Heterosexual,YES,NEGATIVE
+0252,Phan Ngọc Linh,45,Hà Nội,Nổi hạch,Nhiều bạn tình,Divorced,NO,Senior High School,NO,YES,Public Bath,Homosexual,NO,NEGATIVE
+0253,Hoàng Ngọc Lan,45,Đà Nẵng,Sụt cân,Quan hệ không bảo vệ,Divorced,NO,Senior High School,NO,NO,Internet,Homosexual,No,POSITIVE
+0254,Vũ Trang Nam,34,Thừa Thiên Huế,Nổi hạch,Tiêm chích ma túy,Cohabiting,YES,Junior High School,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0255,Hoàng Trang Minh,34,Vĩnh Long,Sốt,Không hành vi nguy cơ,Cohabiting,YES,Junior High School,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0256,Bùi Linh Vy,56,Thanh Hóa,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0257,Trần Hưng Tuấn,76,Bình Dương,Nổi hạch,Không hành vi nguy cơ,Widowed,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0258,Phạm Hà Ngọc,76,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0259,Hoàng Tuấn Dũng,67,Thừa Thiên Huế,Nổi hạch,Nhiều bạn tình,MARRIED,NO,Primary School,YES,NO,Internet,Bisexual,NO,POSITIVE
+0260,Đỗ Nam Vy,23,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,College Degree,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0261,Nguyễn Minh An,24,Thanh Hóa,Sụt cân,Không hành vi nguy cơ,UNMARRIED,YES,College Degree,YES,YES,Public Bath,Homosexual,YES,NEGATIVE
+0262,Vũ Phương Linh,41,Khánh Hòa,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,Junior High School,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0263,Đặng Phương Quang,56,Hồ Chí Minh,Sốt,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0264,Phan Tuấn Trang,50,Cần Thơ,Sốt,Tiêm chích ma túy,Widowed,YES,College Degree,NO,NO,Public Bath,Bisexual,NO,POSITIVE
+0265,Hoàng Châu Nam,31,Hồ Chí Minh,Sốt,Nhiều bạn tình,MARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,YES,NEGATIVE
+0266,Đặng An Bình,30,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Junior High School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0267,Lê Nam Vy,25,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0268,Bùi Linh Ngọc,56,Hà Nội,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0269,Đặng Quang Bình,34,Vĩnh Long,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,College Degree,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0270,Nguyễn Dũng Vy,67,Thừa Thiên Huế,Sốt,Nhiều bạn tình,Divorced,YES,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0271,Phan Quang Bình,34,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0272,Nguyễn Bình Phương,45,Hà Nội,Sốt,Nhiều bạn tình,Divorced,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0273,Lê Minh Vy,56,Vĩnh Long,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,Senior High School,YES,NO,Public Bath,Heterosexual,YES,NEGATIVE
+0274,Bùi Bình Hà,19,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0275,Nguyễn Hà Trang,25,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Internet,Homosexual,NO,POSITIVE
+0276,Nguyễn Châu Quang,42,Lâm Đồng,Sốt,Nhiều bạn tình,UNMARRIED,NO,Junior High School,NO,YES,Park,Bisexual,NO,NEGATIVE
+0277,Đặng Phương Dũng,36,Khánh Hòa,Nổi hạch,Nhiều bạn tình,Cohabiting,YES,Senior High School,YES,YES,Internet,Homosexual,NO,POSITIVE
+0278,Phạm Châu Hưng,36,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,Cohabiting,YES,Senior High School,YES,YES,Internet,Homosexual,YES,NEGATIVE
+0279,Bùi Ngọc Bình,49,Lâm Đồng,Sụt cân,Nhiều bạn tình,MARRIED,NO,Junior High School,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0280,Lê Nam Lan,50,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,NO,Public Bath,Heterosexual,YES,POSITIVE
+0281,Nguyễn Linh Vy,23,Đồng Nai,Nổi hạch,Nhiều bạn tình,UNMARRIED,YES,Primary School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0282,Đỗ Nam Linh,46,Khánh Hòa,Sốt,Không hành vi nguy cơ,Widowed,NO,College Degree,YES,YES,Others,Homosexual,NO,NEGATIVE
+0283,Phạm Hà Ngọc,38,Vĩnh Long,Sốt,Nhiều bạn tình,Divorced,NO,College Degree,YES,NO,Bar,Bisexual,NO,NEGATIVE
+0284,Đặng Minh Lan,31,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0285,Nguyễn Hưng Ngọc,51,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0286,Nguyễn Phương Quang,30,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0287,Phan Dũng Châu,19,Cần Thơ,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Junior High School,NO,NO,Bar,Homosexual,NO,NEGATIVE
+0288,Nguyễn Ngọc An,19,Bình Dương,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0289,Lê Quang Linh,37,Hồ Chí Minh,Sụt cân,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0290,Lê Tuấn Quang,27,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0291,Vũ Quang Linh,45,Bình Dương,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,Primary School,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0292,Lê Ngọc Dũng,57,Nghệ An,Sốt,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,NO,Internet,Bisexual,NO,POSITIVE
+0293,Đặng Tuấn Linh,51,Thừa Thiên Huế,Sốt,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0294,Lê Hà Bình,60,Đồng Nai,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,Primary School,YES,YES,Park,Heterosexual,NO,NEGATIVE
+0295,Hoàng Linh Hưng,34,Hà Nội,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0296,Phan Hưng An,70,Nghệ An,Sụt cân,Quan hệ không bảo vệ,Widowed,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0297,Bùi Trang Linh,54,Bình Định,Sụt cân,Quan hệ không bảo vệ,Divorced,YES,Primary School,YES,NO,Public Bath,Bisexual,NO,POSITIVE
+0298,Lê Lan Minh,27,Đồng Nai,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0299,Lê Vy Hưng,45,Quảng Ninh,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,NO,NO,Park,Homosexual,YES,NEGATIVE
+0300,Lê Tuấn Tuấn,61,Bình Dương,Sốt,Tiêm chích ma túy,MARRIED,YES,Primary School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0301,Lê Dũng Tuấn,33,Bình Định,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,YES,POSITIVE
+0302,Bùi Lan Tuấn,56,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,Divorced,YES,Junior High School,YES,NO,Park,Heterosexual,YES,NEGATIVE
+0303,Phạm Hà Hà,19,Đà Nẵng,Sụt cân,Không hành vi nguy cơ,Cohabiting,NO,Primary School,YES,NO,Others,Heterosexual,NO,NEGATIVE
+0304,Phạm Dũng Quang,41,Bình Định,Nổi hạch,Nhiều bạn tình,Divorced,YES,Senior High School,YES,YES,Internet,Bisexual,NO,POSITIVE
+0305,Phạm Bình Quang,27,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,YES,Public Bath,Heterosexual,YES,POSITIVE
+0306,Đỗ Hưng Nam,45,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0307,Đỗ Quang Hưng,67,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Widowed,YES,College Degree,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0308,Bùi Minh An,31,Bình Dương,Sốt,Tiêm chích ma túy,MARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,YES,POSITIVE
+0309,Vũ Quang Phương,78,Lâm Đồng,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,Junior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0310,Phan Hưng Châu,52,Quảng Ninh,Sốt,Không hành vi nguy cơ,MARRIED,NO,Illiteracy,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0311,Đặng An Nam,69,Quảng Ninh,Nổi hạch,Nhiều bạn tình,UNMARRIED,YES,Illiteracy,YES,NO,Park,Heterosexual,NO,NEGATIVE
+0312,Lê Linh Hà,23,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,Cohabiting,YES,Primary School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0313,Đỗ Phương Hưng,47,Lâm Đồng,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0314,Trần Phương Phương,32,Khánh Hòa,Sốt,Tiêm chích ma túy,MARRIED,NO,Junior High School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0315,Hoàng An Lan,21,Lâm Đồng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,YES,Senior High School,YES,YES,Others,Homosexual,YES,NEGATIVE
+0316,Hoàng Dũng Hưng,50,Hồ Chí Minh,Sốt,Tiêm chích ma túy,Divorced,YES,Junior High School,NO,NO,Park,Heterosexual,NO,POSITIVE
+0317,Bùi Nam Linh,40,Khánh Hòa,Sốt,Quan hệ không bảo vệ,Widowed,NO,Senior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0318,Lê Tuấn Ngọc,40,Bình Định,Sốt,Quan hệ không bảo vệ,Widowed,NO,Senior High School,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0319,Nguyễn Minh Dũng,67,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0320,Đỗ Châu Dũng,33,Đà Nẵng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,NO,NO,Park,Homosexual,NO,POSITIVE
+0321,Phạm Tuấn Bình,29,Vĩnh Long,Sụt cân,Tiêm chích ma túy,MARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,YES,POSITIVE
+0322,Phạm Phương Trang,55,Hà Nội,Sốt,Nhiều bạn tình,Divorced,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0323,Nguyễn Ngọc Hưng,78,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0324,Phạm Dũng Tuấn,43,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0325,Trần Vy Hưng,21,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0326,Bùi An Bình,42,Bình Dương,Nổi hạch,Không hành vi nguy cơ,Cohabiting,NO,Primary School,YES,NO,Bar,Heterosexual,NO,NEGATIVE
+0327,Đỗ Minh Nam,35,Nghệ An,Nổi hạch,Nhiều bạn tình,MARRIED,YES,Junior High School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0328,Vũ Dũng Hưng,56,Nghệ An,Sốt,Quan hệ không bảo vệ,Widowed,NO,Senior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0329,Bùi Hà Minh,70,Cần Thơ,Sốt,Tiêm chích ma túy,Divorced,NO,College Degree,NO,YES,Public Bath,Homosexual,YES,POSITIVE
+0330,Hoàng Vy Phương,68,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,Primary School,YES,YES,Bar,Bisexual,YES,NEGATIVE
+0331,Bùi Minh An,19,Quảng Ninh,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0332,Đặng Vy Bình,23,Thanh Hóa,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0333,Lê Lan Bình,41,Cần Thơ,Sốt,Nhiều bạn tình,Divorced,YES,Illiteracy,YES,NO,Park,Homosexual,NO,POSITIVE
+0334,Phan Hà Ngọc,33,Hà Nội,Sốt,Nhiều bạn tình,Cohabiting,YES,Illiteracy,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0335,Đỗ Nam Hà,51,Thanh Hóa,Sốt,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,YES,Others,Bisexual,NO,NEGATIVE
+0336,Phan Lan Ngọc,67,Bình Dương,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0337,Phan Minh Vy,18,Thừa Thiên Huế,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0338,Bùi Phương Phương,54,Thanh Hóa,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0339,Vũ Minh Châu,40,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0340,Nguyễn Quang Dũng,27,Nghệ An,Sốt,Nhiều bạn tình,MARRIED,YES,Junior High School,YES,NO,Bar,Homosexual,NO,POSITIVE
+0341,Đặng Châu Ngọc,36,Hà Nội,Sụt cân,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,NO,Internet,Homosexual,NO,POSITIVE
+0342,Hoàng Nam Châu,60,Bình Định,Sụt cân,Không hành vi nguy cơ,Divorced,NO,Primary School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0343,Phạm Nam Châu,70,Hà Nội,Sốt,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,NO,Public Bath,Bisexual,YES,NEGATIVE
+0344,Hoàng Dũng Linh,52,Đồng Nai,Sốt,Tiêm chích ma túy,UNMARRIED,NO,College Degree,YES,NO,Public Bath,Homosexual,YES,POSITIVE
+0345,Vũ Quang Nam,19,Hà Nội,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0346,Bùi Hưng Linh,47,Hà Nội,Sụt cân,Nhiều bạn tình,MARRIED,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0347,Nguyễn Linh Bình,34,Bình Dương,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Senior High School,YES,YES,Park,Homosexual,YES,NEGATIVE
+0348,Nguyễn Quang Bình,25,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0349,Hoàng Châu Quang,46,Hải Phòng,Sốt,Quan hệ không bảo vệ,Cohabiting,YES,Senior High School,YES,NO,Internet,Homosexual,NO,POSITIVE
+0350,Nguyễn Dũng Bình,22,Thừa Thiên Huế,Sụt cân,Nhiều bạn tình,UNMARRIED,No,College Degree,YES,No,Bar,Heterosexual,Yes,Positive
+0351,Nguyễn Hà Linh,20,Vĩnh Long,Sụt cân,Nhiều bạn tình,UNMARRIED,No,College Degree,NO,Yes,,Heterosexual,No,Negative
+0352,Lê Minh Hà,23,Quảng Ninh,Sốt,Nhiều bạn tình,Married,Yes,College Degree,NO,Yes,,Bisexual,No,Negative
+0353,Vũ Quang Linh,24,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Married,No,College Degree,YES,No,Park,Heterosexual,Yes,Positive
+0354,Vũ Quang Bình,18,Bình Dương,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,Yes,Senior High School,YES,No,Internet,Heterosexual,Yes,Positive
+0355,Bùi Bình Vy,15,Nghệ An,Sụt cân,Nhiều bạn tình,UNMARRIED,No,Junior High School,NO,No,Public bath,Bisexual,No,Negative
+0356,Phạm Vy Hưng,15,Khánh Hòa,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,NO,NO,Public Bath,Heterosexual,NO,NEGATIVE
+0357,Hoàng Dũng Ngọc,15,Khánh Hòa,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,NO,Public Bath,Bisexual,NO,POSITIVE
+0358,Phạm Minh An,15,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,YES,YES,Internet,Heterosexual,YES,POSITIVE
+0359,Hoàng Trang Phương,15,Đà Nẵng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0360,Hoàng Tuấn Hưng,15,Thừa Thiên Huế,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,NO,Others,Homosexual,NO,POSITIVE
+0361,Trần Quang An,15,Thanh Hóa,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Junior High School,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0362,Hoàng Nam Quang,15,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,YES,Internet,Bisexual,YES,NEGATIVE
+0363,Nguyễn Quang Tuấn,15,Đà Nẵng,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0364,Đặng Vy Ngọc,15,Hồ Chí Minh,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Others,Bisexual,NO,POSITIVE
+0365,Đặng Quang Hà,15,Đà Nẵng,Sốt,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,YES,Public Bath,Homosexual,YES,NEGATIVE
+0366,Vũ Lan Nam,15,Hải Phòng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0367,Trần Linh Bình,15,Đà Nẵng,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,NO,Others,Bisexual,YES,POSITIVE
+0368,Bùi Lan Minh,15,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0369,Phạm Phương Trang,15,Nghệ An,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Junior High School,YES,NO,Bar,Bisexual,NO,NEGATIVE
+0370,Phạm Dũng Phương,15,Nghệ An,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,YES,Others,Bisexual,YES,POSITIVE
+0371,Nguyễn An Nam,15,Nghệ An,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,NO,Park,Homosexual,NO,NEGATIVE
+0372,Vũ Tuấn Tuấn,15,Thanh Hóa,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Junior High School,NO,NO,Others,Bisexual,NO,NEGATIVE
+0373,Đỗ Trang Dũng,15,Bình Định,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,POSITIVE
+0374,Nguyễn Dũng Phương,23,Đà Nẵng,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0375,Phan Châu Quang,70,Khánh Hòa,Sốt,Nhiều bạn tình,MARRIED,NO,College Degree,YES,YES,Others,Heterosexual,NO,NEGATIVE
+0376,Nguyễn Vy Lan,44,Hải Phòng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Others,Homosexual,NO,NEGATIVE
+0377,Hoàng Trang Vy,23,Đà Nẵng,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0378,Lê Phương Châu,13,Hồ Chí Minh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,NO,Bar,Bisexual,YES,NEGATIVE
+0379,Hoàng Lan Châu,19,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0380,Nguyễn Hà Bình,25,Nghệ An,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,Junior High School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0381,Phạm Vy Trang,75,Thừa Thiên Huế,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0382,Nguyễn Hà Hưng,50,Quảng Ninh,Nổi hạch,Tiêm chích ma túy,Widowed,NO,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0383,Đặng An Châu,76,Bình Dương,Sụt cân,Không hành vi nguy cơ,Divorced,NO,College Degree,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0384,Phan Linh Minh,24,Đồng Nai,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0385,Đặng Lan Châu,18,Khánh Hòa,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0386,Hoàng Linh Lan,34,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Park,Homosexual,NO,POSITIVE
+0387,Hoàng Lan Trang,45,Quảng Ninh,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0388,Hoàng Hưng Linh,45,Hà Nội,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,YES,Internet,Hetersexual,NO,POSITIVE
+0389,Trần Nam Ngọc,56,Hà Nội,Sụt cân,Nhiều bạn tình,Divorced,YES,Senior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0390,Đặng An Lan,27,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,Divorced,NO,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0391,Hoàng Hà Linh,29,Vĩnh Long,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0392,Bùi Vy Nam,40,Hải Phòng,Sụt cân,Không hành vi nguy cơ,Widowed,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0393,Vũ Linh Vy,78,Cần Thơ,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0394,Trần Nam Ngọc,16,Đà Nẵng,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0395,Nguyễn Tuấn Linh,56,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0396,Vũ Quang Lan,26,Hà Nội,Sốt,Quan hệ không bảo vệ,Divorced,YES,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0397,Hoàng Lan Quang,37,Lâm Đồng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0398,Nguyễn Quang Lan,12,Bình Dương,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0399,Phạm Ngọc Vy,12,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0400,Phan Vy Ngọc,67,Bình Dương,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0401,Lê Phương Bình,37,Hải Phòng,Sốt,Quan hệ không bảo vệ,Divorced,NO,Junior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0402,Phan Hà Trang,21,Hà Nội,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0403,Đỗ Lan An,30,Bình Định,Nổi hạch,Không hành vi nguy cơ,Cohabiting,NO,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0404,Lê Dũng Tuấn,78,Quảng Ninh,Sốt,Nhiều bạn tình,Widowed,YES,College Degree,YES,YES,Internet,Bisexual,NO,POSITIVE
+0405,Phan Bình Hà,23,Quảng Ninh,Sụt cân,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0406,Phan An Hà,34,Hà Nội,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0407,Phạm Trang Minh,71,Khánh Hòa,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,Senior High School,NO,YES,Park,Heterosexual,YES,NEGATIVE
+0408,Phạm Trang An,25,Hải Phòng,Sụt cân,Tiêm chích ma túy,Cohabiting,NO,College Degree,NO,YES,Internet,Homosexual,NO,POSITIVE
+0409,Hoàng Dũng Lan,34,Quảng Ninh,Sụt cân,Nhiều bạn tình,MARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0410,Lê Phương Minh,16,Nghệ An,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,YES,Internet,Bisexual,NO,POSITIVE
+0411,Phan Vy Hà,80,Cần Thơ,Sụt cân,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0412,Đặng Linh Hưng,35,Hồ Chí Minh,Sụt cân,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,NO,Internet,Homosexual,YES,POSITIVE
+0413,Lê Bình Vy,45,Nghệ An,Sốt,Không hành vi nguy cơ,MARRIED,YES,Junior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0414,Vũ Lan Hưng,24,Thừa Thiên Huế,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0415,Phan Tuấn Hà,45,Nghệ An,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Primary School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0416,Đặng Quang Linh,68,Đà Nẵng,Sốt,Không hành vi nguy cơ,MARRIED,NO,Senior High School,YES,NO,Park,Heterosexual,YES,NEGATIVE
+0417,Phan Dũng Vy,30,Hải Phòng,Sụt cân,Không hành vi nguy cơ,Cohabiting,YES,Junior High School,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0418,Trần Vy Ngọc,23,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,NO,Bar,Bisexual,NO,POSITIVE
+0419,Bùi Linh Minh,50,Thừa Thiên Huế,Sốt,Nhiều bạn tình,UNMARRIED,NO,Senior High School,YES,YES,Public Bath,Heterosexual,NO,NEGATIVE
+0420,Nguyễn Lan Ngọc,17,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0421,Trần Trang Minh,18,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0422,Trần Châu Vy,25,Thừa Thiên Huế,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0423,Hoàng Tuấn Châu,70,Cần Thơ,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Bisexual,NO,POSITIVE
+0424,Phan Trang Tuấn,70,Thanh Hóa,Nổi hạch,Nhiều bạn tình,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Bisexual,YES,NEGATIVE
+0425,Vũ Linh Hưng,38,Hồ Chí Minh,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0426,Nguyễn Vy Quang,46,Nghệ An,Sốt,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0427,Phan Minh Quang,42,Hà Nội,Sốt,Không hành vi nguy cơ,Cohabiting,YES,Senior High School,YES,NO,Internet,Heterosexual,YES,NEGATIVE
+0428,Hoàng Lan Quang,56,Cần Thơ,Sốt,Nhiều bạn tình,Widowed,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0429,Bùi Nam Quang,78,Bình Định,Sụt cân,Tiêm chích ma túy,Divorced,YES,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0430,Bùi Minh An,45,Vĩnh Long,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0431,Hoàng Dũng Châu,41,Bình Định,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0432,Hoàng Ngọc An,34,Cần Thơ,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0433,Phan Bình Châu,34,Hải Phòng,Sốt,Tiêm chích ma túy,UNMARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0434,Đỗ An Quang,19,Thanh Hóa,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,Senior High School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0435,Lê Châu Hà,67,Quảng Ninh,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0436,Nguyễn Hưng Tuấn,28,Vĩnh Long,Sốt,Tiêm chích ma túy,Divorced,YES,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0437,Lê An Hà,45,Hà Nội,Nổi hạch,Tiêm chích ma túy,Divorced,NO,Senior High School,NO,YES,Park,Bisexual,NO,NEGATIVE
+0438,Phan Linh An,80,Đồng Nai,Sốt,Không hành vi nguy cơ,Widowed,NO,Illiteracy,NO,NO,Park,Hetersexual,YES,NEGATIVE
+0439,Vũ Ngọc Phương,15,Đà Nẵng,Sốt,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0440,Hoàng Hưng Linh,16,Lâm Đồng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,YES,Public Bath,Homosexual,NO,POSITIVE
+0441,Bùi Phương Hà,64,Cần Thơ,Sốt,Không hành vi nguy cơ,Divorced,NO,College Degree,YES,YES,Bar,Heterosexual,YES,NEGATIVE
+0442,Đặng Quang An,69,Vĩnh Long,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Senior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0443,Nguyễn Quang Linh,44,Thừa Thiên Huế,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,NO,POSITIVE
+0444,Hoàng An Phương,56,Cần Thơ,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,Primary School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0445,Hoàng Dũng Vy,73,Hồ Chí Minh,Sụt cân,Nhiều bạn tình,Widowed,YES,Illiteracy,NO,NO,Others,Bisexual,YES,NEGATIVE
+0446,Bùi Nam Phương,14,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0447,Bùi Hà Quang,25,Thanh Hóa,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0448,Nguyễn Nam Linh,29,Hồ Chí Minh,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0449,Đỗ Minh Minh,49,Bình Định,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Junior High School,NO,YES,Public Bath,Homosexual,NO,POSITIVE
+0450,Phan Nam An,56,Hà Nội,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Primary School,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0451,Bùi Linh Dũng,43,Đà Nẵng,Sụt cân,Tiêm chích ma túy,Divorced,YES,Illiteracy,YES,NO,Park,Bisexual,NO,POSITIVE
+0452,Lê Hưng Quang,47,Quảng Ninh,Sốt,Tiêm chích ma túy,MARRIED,NO,Junior High School,NO,NO,Others,Homosexual,YES,NEGATIVE
+0453,Đặng Ngọc Quang,47,Khánh Hòa,Nổi hạch,Tiêm chích ma túy,UNMARRIED,NO,College Degree,NO,NO,Internet,Homosexual,NO,POSITIVE
+0454,Hoàng Quang Vy,38,Đồng Nai,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Senior High School,YES,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0455,Vũ Ngọc Quang,39,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Primary School,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0456,Vũ Châu Quang,20,Quảng Ninh,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0457,Phan An Hà,22,Nghệ An,Sốt,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,NO,Internet,Heterosexual,YES,NEGATIVE
+0458,Đỗ Châu Hưng,30,Hải Phòng,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0459,Bùi Tuấn Ngọc,36,Lâm Đồng,Nổi hạch,Nhiều bạn tình,UNMARRIED,YES,Senior High School,YES,YES,Bar,Homosexual,YES,NEGATIVE
+0460,Nguyễn Hưng Nam,31,Vĩnh Long,Sụt cân,Quan hệ không bảo vệ,Cohabiting,YES,Junior High School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0461,Hoàng Vy Vy,13,Hải Phòng,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0462,Phan Lan Hà,32,Bình Dương,Sụt cân,Nhiều bạn tình,Divorced,YES,Primary School,YES,NO,Bar,Bisexual,YES,NEGATIVE
+0463,Bùi Trang Quang,21,Thừa Thiên Huế,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,College Degree,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0464,Nguyễn Bình Châu,27,Đà Nẵng,Sốt,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0465,Vũ Châu Tuấn,79,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Widowed,NO,Illiteracy,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0466,Nguyễn Lan Vy,17,Lâm Đồng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,NO,NO,Park,Heterosexual,NO,POSITIVE
+0467,Lê Phương Lan,56,Bình Dương,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0468,Hoàng Linh Ngọc,39,Đồng Nai,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Primary School,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0469,Phạm Trang Minh,40,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,Senior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0470,Hoàng An Ngọc,21,Hải Phòng,Sốt,Tiêm chích ma túy,Cohabiting,NO,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0471,Trần Hà Quang,18,Vĩnh Long,Sốt,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0472,Vũ Tuấn Hà,57,Nghệ An,Sụt cân,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0473,Phạm Châu Trang,34,Khánh Hòa,Sốt,Tiêm chích ma túy,MARRIED,NO,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0474,Đỗ Quang Bình,45,Lâm Đồng,Sốt,Nhiều bạn tình,Divorced,NO,Junior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0475,Trần Trang Lan,45,Thừa Thiên Huế,Sụt cân,Nhiều bạn tình,Divorced,NO,Junior High School,NO,YES,Bar,Heterosexual,YES,NEGATIVE
+0476,Vũ Phương Hà,70,Đà Nẵng,Nổi hạch,Nhiều bạn tình,MARRIED,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0477,Đỗ Ngọc Dũng,51,Đồng Nai,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0478,Vũ Vy Nam,16,Bình Dương,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Junior High School,NO,NO,Bar,Homosexual,YES,NEGATIVE
+0479,Bùi Vy Minh,34,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0480,Đặng Tuấn Bình,38,Lâm Đồng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Internet,Bisexual,NO,POSITIVE
+0481,Hoàng Hà Phương,29,Hồ Chí Minh,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,YES,Internet,Bisexual,YES,NEGATIVE
+0482,Đỗ Minh Quang,21,Vĩnh Long,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0483,Trần Hà Quang,28,Đà Nẵng,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0484,Lê Vy Minh,36,Bình Định,Sụt cân,Nhiều bạn tình,Cohabiting,NO,College Degree,NO,NO,Internet,Heterosexual,YES,POSITIVE
+0485,Lê Hưng Hưng,23,Cần Thơ,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0486,Đặng Vy Nam,34,Lâm Đồng,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,YES,Park,Homosexual,YES,NEGATIVE
+0487,Lê Dũng Lan,38,Bình Dương,Sốt,Quan hệ không bảo vệ,Divorced,YES,Primary School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0488,Phan Tuấn Linh,24,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0489,Phạm Minh Quang,14,Hồ Chí Minh,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0490,Phan Tuấn Hà,80,Nghệ An,Nổi hạch,Nhiều bạn tình,Widowed,NO,Primary School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0491,Bùi Phương Nam,25,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0492,Vũ Vy Dũng,25,Hà Nội,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0493,Nguyễn Châu Dũng,27,Lâm Đồng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,NO,YES,Internet,Heterosexual,YES,POSITIVE
+0494,Hoàng Hưng An,38,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,College Degree,YES,NO,Bar,Heterosexual,NO,POSITIVE
+0495,Trần Bình Tuấn,40,Thừa Thiên Huế,Sụt cân,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0496,Nguyễn Châu Phương,45,Bình Dương,Sụt cân,Tiêm chích ma túy,Widowed,YES,Primary School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0497,Trần Nam Linh,41,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0498,Nguyễn Linh Tuấn,48,Khánh Hòa,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,College Degree,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0499,Đỗ Hà Nam,51,Thanh Hóa,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0500,Phạm Linh Hưng,34,Thanh Hóa,Sốt,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,YES,Park,Bisexual,YES,NEGATIVE
+0501,Vũ Vy Vy,47,Bình Dương,Sốt,Nhiều bạn tình,UNMARRIED,YES,College Degree,YES,NO,Internet,Homosexual,YES,POSITIVE
+0502,Lê Nam An,38,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0503,Trần Hà Trang,39,Đồng Nai,Sụt cân,Không hành vi nguy cơ,UNMARRIED,YES,College Degree,NO,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0504,Đỗ Phương Ngọc,20,Bình Dương,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0505,Đặng Minh Vy,22,Thanh Hóa,Nổi hạch,Quan hệ không bảo vệ,Widowed,NO,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0506,Phạm Vy Minh,30,Quảng Ninh,Sốt,Quan hệ không bảo vệ,DIvorced,NO,Illiteracy,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0507,Vũ Minh Hưng,36,Cần Thơ,Sốt,Nhiều bạn tình,UNMARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0508,Phan Phương Dũng,31,Nghệ An,Sốt,Quan hệ không bảo vệ,DIvorced,YES,Primary School,NO,NO,Public Bath,BIsexual,YES,POSITIVE
+0509,Đặng Dũng Minh,13,Nghệ An,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,NO,,Heterosexual,NO,NEGATIVE
+0510,Đặng Lan Trang,32,Vĩnh Long,Sụt cân,Nhiều bạn tình,MARRIED,NO,Senior High School,YES,NO,Bar,Homosexual,YES,NEGATIVE
+0511,Phan Lan Lan,21,Thừa Thiên Huế,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0512,Phan Quang Hà,27,Nghệ An,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0513,Đặng Linh Lan,79,Đà Nẵng,Sốt,Quan hệ không bảo vệ,Widowed,NO,Illiteracy,YES,NO,Others,Heterosexual,YES,NEGATIVE
+0514,Lê Hà Nam,17,Hải Phòng,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,YES,NO,Park,Heterosexual,YES,POSITIVE
+0515,Lê Linh Hưng,56,Quảng Ninh,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,NO,NO,Bar,Homosexual,YES,NEGATIVE
+0516,Vũ Lan Minh,39,Thừa Thiên Huế,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,YES,NEGATIVE
+0517,Đỗ An Tuấn,40,Hải Phòng,Nổi hạch,Tiêm chích ma túy,Divorced,YES,Senior High School,YES,YES,Public Bath,Heterosexual,NO,POSITIVE
+0518,Phạm Vy Phương,21,Hải Phòng,Sốt,Không hành vi nguy cơ,Cohabiting,YES,Junior High School,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0519,Đặng Lan Tuấn,18,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Junior High School,YES,NO,Internet,Homosexual,YES,POSITIVE
+0520,Trần Dũng Quang,57,Hồ Chí Minh,Sốt,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0521,Phạm Hà Quang,34,Hải Phòng,Sụt cân,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0522,Bùi Vy An,25,Bình Định,Nổi hạch,Không hành vi nguy cơ,MARRIED,YES,College Degree,YES,YES,Bar,Heterosexual,NO,NEGATIVE
+0523,Bùi Minh Linh,70,Bình Định,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Illiteracy,NO,NO,Public Bath,Bisexual,YES,POSITIVE
+0524,Phan Hà Ngọc,70,Cần Thơ,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,NO,YES,Public Bath,Bisexual,YES,POSITIVE
+0525,Nguyễn Bình Lan,38,Lâm Đồng,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,YES,Park,Heterosexual,YES,NEGATIVE
+0526,Nguyễn Dũng Lan,46,Nghệ An,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0527,Bùi Dũng Ngọc,42,Quảng Ninh,Sốt,Nhiều bạn tình,Cohabiting,YES,Senior High School,YES,NO,Internet,Heterosexual,NO,NEGATIVE
+0528,Hoàng Bình Linh,56,Thanh Hóa,Sốt,Không hành vi nguy cơ,Widowed,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0529,Vũ Dũng Phương,78,Đồng Nai,Sốt,Tiêm chích ma túy,Divorced,NO,College Degree,YES,YES,Internet,Heterosexual,YES,POSITIVE
+0530,Phan Hưng Hà,45,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Primary School,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0531,Nguyễn Minh Dũng,41,Hải Phòng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0532,Trần Tuấn Tuấn,34,Đồng Nai,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0533,Phan Lan Hưng,34,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,YES,YES,Internet,Bisexual,YES,POSITIVE
+0534,Nguyễn Châu Tuấn,19,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0535,Hoàng Linh Châu,67,Bình Dương,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0536,Phan Hưng Linh,28,Bình Dương,Sụt cân,Nhiều bạn tình,Divorced,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0537,Đặng Hà Hưng,45,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,Senior High School,YES,NO,Park,Bisexual,YES,NEGATIVE
+0538,Phan Dũng Châu,33,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,College Degree,NO,YES,Internet,Heterosexual,NO,POSITIVE
+0539,Trần Quang Dũng,29,Khánh Hòa,Sụt cân,Quan hệ không bảo vệ,Divorced,NO,Senior High School,NO,YES,Bar,Homosexual,NO,POSITIVE
+0540,Đỗ Hưng Lan,59,Hồ Chí Minh,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,Junior High School,YES,YES,,Heterosexual,NO,NEGATIVE
+0541,Nguyễn Hưng Châu,30,Hồ Chí Minh,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,YES,NO,Park,Bisexual,NO,NEGATIVE
+0542,Bùi Linh Bình,35,Bình Định,Sốt,Tiêm chích ma túy,MARRIED,NO,Illiteracy,YES,YES,Public Bath,Heterosexual,YES,NEGATIVE
+0543,Phạm Châu Tuấn,71,Thanh Hóa,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,NO,YES,Others,Heterosexual,NO,POSITIVE
+0544,Đỗ Hà Tuấn,62,Thanh Hóa,Sụt cân,Tiêm chích ma túy,Divorced,YES,Illiteracy,NO,NO,Others,Homosexual,YES,NEGATIVE
+0545,Đặng Dũng Linh,54,Bình Định,Sốt,Tiêm chích ma túy,UNMARRIED,NO,College Dregree,NO,YES,,Heterosexual,YES,NEGATIVE
+0546,Vũ Linh Tuấn,44,Thanh Hóa,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Primary School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0547,Nguyễn Nam Ngọc,52,Hải Phòng,Sốt,Không hành vi nguy cơ,Widowed,YES,College Dregree,NO,YES,Public Bath,Bisexual,NO,NEGATIVE
+0548,Đặng Dũng Quang,67,Khánh Hòa,Sốt,Nhiều bạn tình,UNMARRIED,NO,Primary School,NO,NO,Others,Bisexual,NO,NEGATIVE
+0549,Trần Hà Nam,41,Vĩnh Long,Nổi hạch,Tiêm chích ma túy,Divorced,NO,Junior High School,YES,NO,,Bisexual,NO,NEGATIVE
+0550,Trần Trang Hà,24,Bình Dương,Nổi hạch,Nhiều bạn tình,MARRIED,YES,Senior High School,YES,NO,Internet,Homosexual,YES,NEGATIVE
+0551,Nguyễn Châu Lan,40,Thừa Thiên Huế,Sốt,Tiêm chích ma túy,MARRIED,YES,College Dregree,YES,NO,Internet,Homosexual,YES,POSITIVE
+0552,Hoàng Trang Vy,41,Thừa Thiên Huế,Nổi hạch,Tiêm chích ma túy,Divorced,YES,Senior High School,NO,YES,Park,Heterosexual,NO,NEGATIVE
+0553,Nguyễn Minh Hưng,61,Hồ Chí Minh,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Illiteracy,NO,NO,Public Bath,Homosexual,YES,NEGATIVE
+0554,Lê Hà Linh,58,Lâm Đồng,Sụt cân,Nhiều bạn tình,Widowed,NO,College Dregree,NO,YES,Others,Heterosexual,NO,NEGATIVE
+0555,Vũ Nam Phương,53,Vĩnh Long,Nổi hạch,Không hành vi nguy cơ,Widowed,NO,Junior High School,NO,NO,,Bisexual,NO,NEGATIVE
+0556,Nguyễn Hà Lan,27,Hải Phòng,Sụt cân,Nhiều bạn tình,Widowed,YES,College Dregree,YES,NO,Internet,Homosexual,NO,POSITIVE
+0557,Lê Hà Dũng,62,Lâm Đồng,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,YES,Internet,Bisexual,YES,POSITIVE
+0558,Vũ Bình Trang,50,Hải Phòng,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Primary School,YES,YES,,Heterosexual,NO,POSITIVE
+0559,Trần Dũng Dũng,24,Bình Định,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,NO,Internet,Heterosexual,YES,POSITIVE
+0560,Phan Châu Phương,75,Quảng Ninh,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,YES,NO,Park,Bisexual,NO,POSITIVE
+0561,Nguyễn Bình Hưng,23,Thanh Hóa,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,YES,YES,Bar,Heterosexual,NO,POSITIVE
+0562,Vũ Tuấn Ngọc,60,Bình Định,Sốt,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,YES,YES,,Heterosexual,NO,POSITIVE
+0563,Vũ Hưng Hà,65,Lâm Đồng,Sụt cân,Quan hệ không bảo vệ,Divorced,NO,Senior High School,NO,NO,Bar,Heterosexual,NO,POSITIVE
+0564,Lê Trang Châu,25,Nghệ An,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Public Bath,Bisexual,YES,POSITIVE
+0565,Đặng Minh Quang,26,Bình Dương,Sụt cân,Nhiều bạn tình,Divorced,NO,Illiteracy,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0566,Trần Châu Minh,54,Bình Dương,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,Illiteracy,NO,YES,Internet,Homosexual,NO,NEGATIVE
+0567,Vũ Trang Hưng,54,Bình Định,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,Senior High School,YES,NO,Public Bath,Heterosexual,NO,NEGATIVE
+0568,Phạm Hà Bình,33,Vĩnh Long,Sốt,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,,Homosexual,YES,POSITIVE
+0569,Trần Bình Nam,26,Quảng Ninh,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,College Dregree,NO,YES,Park,Bisexual,YES,POSITIVE
+0570,Bùi Hà An,75,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,POSITIVE
+0571,Nguyễn Châu Vy,59,Hồ Chí Minh,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Illiteracy,NO,NO,Bar,Bisexual,NO,POSITIVE
+0572,Nguyễn Ngọc Hưng,66,Quảng Ninh,Nổi hạch,Nhiều bạn tình,Widowed,YES,Illiteracy,NO,YES,Others,Heterosexual,YES,NEGATIVE
+0573,Hoàng Hà Trang,27,Đồng Nai,Sốt,Không hành vi nguy cơ,Divorced,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0574,Phạm Lan Nam,56,Thanh Hóa,Sốt,Quan hệ không bảo vệ,Widowed,YES,College Degree,NO,YES,Others,Bisexual,YES,POSITIVE
+0575,Trần Quang Châu,66,Hải Phòng,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,YES,NEGATIVE
+0576,Phan Quang An,47,Hải Phòng,Sốt,Không hành vi nguy cơ,Divorced,NO,College Degree,NO,NO,Internet,Bisexual,NO,NEGATIVE
+0577,Hoàng Lan Nam,29,Lâm Đồng,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,Junior High School,YES,YES,Bar,Homosexual,NO,NEGATIVE
+0578,Phan Trang Tuấn,69,Cần Thơ,Nổi hạch,Nhiều bạn tình,Divorced,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0579,Phạm Bình Quang,54,Cần Thơ,Sụt cân,Tiêm chích ma túy,Widowed,YES,College Dregree,NO,YES,Park,Heterosexual,NO,NEGATIVE
+0580,Phan Lan Bình,32,Đồng Nai,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,Junior High School,YES,YES,Park,Homosexual,YES,POSITIVE
+0581,Hoàng Nam Tuấn,47,Cần Thơ,Sốt,Quan hệ không bảo vệ,Widowed,YES,College Degree,NO,YES,Park,Heterosexual,YES,POSITIVE
+0582,Lê Quang Linh,70,Hồ Chí Minh,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Internet,Heterosexual,YES,NEGATIVE
+0583,Nguyễn Hà Ngọc,55,Lâm Đồng,Sốt,Nhiều bạn tình,UNMARRIED,NO,College Degree,YES,NO,Others,Homosexual,NO,NEGATIVE
+0584,Vũ Dũng Minh,23,Bình Định,Sụt cân,Quan hệ không bảo vệ,Divorced,YES,Illiteracy,NO,YES,Public Bath,Homosexual,YES,POSITIVE
+0585,Đỗ Ngọc Bình,65,Đà Nẵng,Sụt cân,Nhiều bạn tình,Widowed,YES,Primary School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0586,Vũ Hưng Linh,34,Bình Dương,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Primary School,NO,YES,Bar,Bisexual,NO,POSITIVE
+0587,Đỗ Bình Bình,22,Thanh Hóa,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Dregree,YES,NO,Park,Heterosexual,NO,NEGATIVE
+0588,Hoàng Phương Bình,67,Quảng Ninh,Sốt,Quan hệ không bảo vệ,Divorced,YES,College Degree,YES,NO,Public Bath,Homosexual,YES,NEGATIVE
+0589,Trần Nam Vy,31,Bình Định,Nổi hạch,Quan hệ không bảo vệ,Widowed,NO,College Dregree,YES,NO,Public Bath,Bisexual,YES,POSITIVE
+0590,Bùi An Lan,56,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,College Dregree,NO,NO,Bar,Bisexual,YES,POSITIVE
+0591,Đặng Nam Linh,62,Đồng Nai,Sụt cân,Nhiều bạn tình,Widowed,YES,Senior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0592,Trần Quang Tuấn,36,Đồng Nai,Sụt cân,Nhiều bạn tình,UNMARRIED,NO,College Dregree,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0593,Hoàng Phương Trang,59,Hà Nội,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,College Degree,NO,NO,Public Bath,Homosexual,NO,POSITIVE
+0594,Trần Minh Trang,41,Hải Phòng,Sốt,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,YES,,Bisexual,YES,POSITIVE
+0595,Vũ Vy Tuấn,65,Hà Nội,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,Primary School,NO,YES,Park,Bisexual,YES,POSITIVE
+0596,Đỗ Quang Tuấn,59,Thanh Hóa,Sụt cân,Không hành vi nguy cơ,UNMARRIED,NO,College Dregree,YES,YES,Park,Homosexual,NO,NEGATIVE
+0597,Lê Quang Dũng,24,Thừa Thiên Huế,Nổi hạch,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,YES,POSITIVE
+0598,Nguyễn Phương Dũng,23,Hải Phòng,Sốt,Không hành vi nguy cơ,MARRIED,YES,College Dregree,YES,YES,Park,Bisexual,NO,NEGATIVE
+0599,Đặng Ngọc Châu,18,Hải Phòng,Sốt,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0600,Đỗ An Tuấn,30,Quảng Ninh,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,College Degree,YES,YES,Bar,Heterosexual,YES,NEGATIVE
+0601,Hoàng Lan Hà,45,Bình Dương,Sụt cân,Tiêm chích ma túy,Divorced,NO,Senior High School,NO,YES,Public Bath,Homosexual,NO,NEGATIVE
+0602,Trần Lan Bình,45,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,Divorced,NO,Senior High School,NO,NO,Internet,Homosexual,No,POSITIVE
+0603,Phạm Lan Tuấn,34,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,Cohabiting,YES,Junior High School,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0604,Trần Minh Bình,34,Thanh Hóa,Sụt cân,Không hành vi nguy cơ,Cohabiting,YES,Junior High School,YES,YES,Internet,Heterosexual,YES,NEGATIVE
+0605,Đặng Tuấn Tuấn,56,Bình Định,Sụt cân,Tiêm chích ma túy,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,NO,NEGATIVE
+0606,Đặng Nam An,76,Quảng Ninh,Sốt,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Park,Heterosexual,YES,NEGATIVE
+0607,Nguyễn Minh Ngọc,76,Thanh Hóa,Sụt cân,Tiêm chích ma túy,Widowed,YES,Illiteracy,NO,NO,Park,Heterosexual,NO,POSITIVE
+0608,Trần Minh Vy,67,Hà Nội,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Primary School,YES,NO,Internet,Bisexual,NO,POSITIVE
+0609,Hoàng Trang An,23,Thanh Hóa,Nổi hạch,Tiêm chích ma túy,UNMARRIED,YES,College Degree,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0610,Nguyễn Hưng Phương,24,Nghệ An,Sụt cân,Không hành vi nguy cơ,UNMARRIED,YES,College Degree,YES,YES,Public Bath,Homosexual,YES,NEGATIVE
+0611,Vũ Minh Tuấn,41,Thanh Hóa,Nổi hạch,Nhiều bạn tình,MARRIED,NO,Junior High School,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0612,Đỗ Vy Dũng,56,Thừa Thiên Huế,Nổi hạch,Nhiều bạn tình,Widowed,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0613,Đỗ Tuấn Tuấn,50,Bình Định,Sốt,Tiêm chích ma túy,Widowed,YES,College Degree,NO,NO,Public Bath,Bisexual,NO,POSITIVE
+0614,Đặng Hưng Tuấn,31,Quảng Ninh,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,YES,NEGATIVE
+0615,Hoàng Bình Linh,30,Lâm Đồng,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Junior High School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0616,Vũ Minh Ngọc,25,Đà Nẵng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0617,Bùi Quang An,56,Đồng Nai,Sụt cân,Tiêm chích ma túy,Widowed,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0618,Hoàng Hà Vy,34,Nghệ An,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,College Degree,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0619,Hoàng Dũng Hà,67,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,Divorced,YES,College Degree,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0620,Bùi Bình Linh,34,Khánh Hòa,Sốt,Quan hệ không bảo vệ,Widowed,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0621,Hoàng Tuấn Vy,45,Vĩnh Long,Sụt cân,Quan hệ không bảo vệ,Divorced,NO,College Degree,NO,YES,Park,Homosexual,NO,NEGATIVE
+0622,Bùi Ngọc Bình,56,Lâm Đồng,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,YES,NO,Public Bath,Heterosexual,YES,NEGATIVE
+0623,Đỗ Lan Phương,19,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0624,Đặng Phương Nam,25,Đà Nẵng,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Senior High School,NO,YES,Internet,Homosexual,NO,POSITIVE
+0625,Hoàng Vy Phương,42,Hải Phòng,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Junior High School,NO,YES,Park,Bisexual,NO,NEGATIVE
+0626,Hoàng An Bình,36,Thừa Thiên Huế,Sốt,Quan hệ không bảo vệ,Cohabiting,YES,Senior High School,YES,YES,Internet,Homosexual,NO,POSITIVE
+0627,Lê Ngọc Vy,36,Thừa Thiên Huế,Sốt,Không hành vi nguy cơ,Cohabiting,YES,Senior High School,YES,YES,Internet,Homosexual,YES,NEGATIVE
+0628,Bùi Châu Phương,49,Đà Nẵng,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,Junior High School,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0629,Lê Phương Dũng,50,Cần Thơ,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,NO,Public Bath,Heterosexual,YES,POSITIVE
+0630,Trần Minh Linh,23,Cần Thơ,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Primary School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0631,Phạm Quang Phương,46,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Widowed,NO,College Degree,YES,YES,Others,Homosexual,NO,NEGATIVE
+0632,Hoàng Hà Phương,38,Nghệ An,Nổi hạch,Không hành vi nguy cơ,Divorced,NO,College Degree,YES,NO,Bar,Bisexual,NO,NEGATIVE
+0633,Hoàng Lan Nam,31,Hồ Chí Minh,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Illiteracy,NO,NO,Public Bath,Heterosexual,NO,POSITIVE
+0634,Hoàng Quang Bình,51,Lâm Đồng,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,YES,YES,Internet,Heterosexual,NO,POSITIVE
+0635,Bùi Lan Linh,30,Khánh Hòa,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,YES,Senior High School,YES,YES,Park,Heterosexual,YES,NEGATIVE
+0636,Phạm Nam Nam,19,Bình Dương,Sụt cân,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Bar,Homosexual,NO,NEGATIVE
+0637,Trần Bình Hà,19,Hồ Chí Minh,Sốt,Tiêm chích ma túy,UNMARRIED,NO,Junior High School,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0638,Bùi Hưng Tuấn,37,Hồ Chí Minh,Sốt,Nhiều bạn tình,MARRIED,YES,Senior High School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0639,Đỗ Minh Tuấn,27,Đà Nẵng,Sốt,Không hành vi nguy cơ,UNMARRIED,NO,Primary School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0640,Lê Trang Tuấn,45,Hải Phòng,Sốt,Nhiều bạn tình,MARRIED,YES,Primary School,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0641,Trần Lan Phương,57,Bình Định,Sốt,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,NO,Internet,Bisexual,NO,POSITIVE
+0642,Trần Dũng Vy,51,Thanh Hóa,Nổi hạch,Nhiều bạn tình,MARRIED,NO,College Degree,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0643,Bùi Châu Lan,60,Hồ Chí Minh,Sụt cân,Nhiều bạn tình,Divorced,NO,Primary School,YES,YES,Park,Heterosexual,NO,NEGATIVE
+0644,Phạm Quang An,34,Khánh Hòa,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0645,Lê Hưng Dũng,70,Bình Dương,Sụt cân,Quan hệ không bảo vệ,Widowed,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0646,Hoàng Ngọc Tuấn,54,Quảng Ninh,Nổi hạch,Quan hệ không bảo vệ,Divorced,YES,Primary School,YES,NO,Public Bath,Bisexual,NO,POSITIVE
+0647,Trần Bình Minh,27,Nghệ An,Nổi hạch,Nhiều bạn tình,UNMARRIED,NO,Illiteracy,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0648,Nguyễn Phương Vy,45,Hải Phòng,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Illiteracy,NO,NO,Park,Homosexual,YES,NEGATIVE
+0649,Trần Ngọc Trang,61,Cần Thơ,Nổi hạch,Tiêm chích ma túy,MARRIED,YES,Primary School,NO,YES,Public Bath,Heterosexual,NO,POSITIVE
+0650,Lê Linh An,33,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,YES,POSITIVE
+0651,Phan Phương Vy,56,Nghệ An,Sụt cân,Quan hệ không bảo vệ,Divorced,YES,Junior High School,YES,NO,Park,Heterosexual,YES,NEGATIVE
+0652,Đỗ An Bình,19,Hà Nội,Nổi hạch,Không hành vi nguy cơ,Cohabiting,NO,Primary School,YES,NO,Others,Heterosexual,NO,NEGATIVE
+0653,Bùi Lan Dũng,41,Khánh Hòa,Sốt,Tiêm chích ma túy,Divorced,YES,Senior High School,YES,YES,Internet,Bisexual,NO,POSITIVE
+0654,Đặng Tuấn Linh,27,Bình Định,Sốt,Tiêm chích ma túy,UNMARRIED,NO,College Degree,NO,YES,Public Bath,Heterosexual,YES,POSITIVE
+0655,Phạm Vy Hưng,45,Thừa Thiên Huế,Nổi hạch,Nhiều bạn tình,MARRIED,NO,Senior High School,NO,YES,Bar,Homosexual,NO,NEGATIVE
+0656,Hoàng Vy Nam,67,Nghệ An,Sốt,Không hành vi nguy cơ,Widowed,YES,College Degree,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0657,Hoàng Bình Trang,31,Nghệ An,Sốt,Quan hệ không bảo vệ,MARRIED,NO,Senior High School,NO,NO,Internet,Heterosexual,YES,POSITIVE
+0658,Đỗ An Minh,78,Bình Dương,Sụt cân,Quan hệ không bảo vệ,Divorced,YES,Junior High School,YES,NO,Public Bath,Heterosexual,NO,POSITIVE
+0659,Trần Tuấn An,52,Lâm Đồng,Sốt,Tiêm chích ma túy,MARRIED,NO,Illiteracy,NO,NO,Bar,Bisexual,NO,NEGATIVE
+0660,Lê Hưng Nam,69,Lâm Đồng,Nổi hạch,Không hành vi nguy cơ,UNMARRIED,YES,Illiteracy,YES,NO,Park,Heterosexual,NO,NEGATIVE
+0661,Trần Phương Phương,23,Hải Phòng,Nổi hạch,Tiêm chích ma túy,Cohabiting,YES,Primary School,YES,NO,Public Bath,Homosexual,NO,POSITIVE
+0662,Nguyễn Bình Nam,47,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,MARRIED,NO,College Degree,NO,NO,Internet,Homosexual,YES,POSITIVE
+0663,Phạm Nam Châu,32,Bình Định,Sụt cân,Nhiều bạn tình,MARRIED,NO,Junior High School,NO,NO,Bar,Heterosexual,NO,NEGATIVE
+0664,Đỗ Tuấn Vy,21,Đồng Nai,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Senior High School,YES,YES,Others,Homosexual,YES,NEGATIVE
+0665,Phạm Tuấn Dũng,50,Hồ Chí Minh,Sốt,Quan hệ không bảo vệ,Divorced,YES,Junior High School,NO,NO,Park,Heterosexual,NO,POSITIVE
+0666,Nguyễn Ngọc Nam,40,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,Widowed,NO,Senior High School,YES,NO,Internet,Heterosexual,NO,POSITIVE
+0667,Lê Linh Hà,40,Đà Nẵng,Sốt,Không hành vi nguy cơ,Widowed,NO,Senior High School,NO,NO,Park,Heterosexual,NO,NEGATIVE
+0668,Hoàng Bình Ngọc,67,Thừa Thiên Huế,Sụt cân,Quan hệ không bảo vệ,MARRIED,YES,Senior High School,YES,YES,Public Bath,Bisexual,YES,NEGATIVE
+0669,Hoàng Linh Ngọc,33,Cần Thơ,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,NO,NO,Park,Homosexual,NO,POSITIVE
+0670,Phan Quang Phương,29,Đồng Nai,Nổi hạch,Quan hệ không bảo vệ,MARRIED,NO,Primary School,YES,NO,Internet,Heterosexual,YES,POSITIVE
+0671,Trần Dũng Lan,55,Hồ Chí Minh,Sốt,Tiêm chích ma túy,Divorced,YES,Illiteracy,NO,NO,Bar,Heterosexual,YES,NEGATIVE
+0672,Vũ Hà Minh,78,Cần Thơ,Sốt,Nhiều bạn tình,Widowed,NO,College Degree,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0673,Phạm Quang Hà,43,Cần Thơ,Nổi hạch,Nhiều bạn tình,MARRIED,NO,College Degree,NO,NO,Internet,Bisexual,NO,POSITIVE
+0674,Vũ Trang Châu,21,Thanh Hóa,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Senior High School,NO,NO,Public Bath,Homosexual,YES,POSITIVE
+0675,Lê Quang Quang,42,Đồng Nai,Sụt cân,Quan hệ không bảo vệ,Cohabiting,NO,Primary School,YES,NO,Bar,Heterosexual,NO,NEGATIVE
+0676,Lê Lan Ngọc,35,Bình Định,Nổi hạch,Quan hệ không bảo vệ,MARRIED,YES,Junior High School,NO,NO,Others,Heterosexual,YES,NEGATIVE
+0677,Nguyễn Phương Lan,56,Quảng Ninh,Nổi hạch,Tiêm chích ma túy,Widowed,NO,Senior High School,NO,NO,Internet,Bisexual,NO,POSITIVE
+0678,Phạm Bình Hưng,70,Hà Nội,Sốt,Tiêm chích ma túy,Divorced,NO,College Degree,NO,YES,Public Bath,Homosexual,YES,POSITIVE
+0679,Bùi Tuấn Trang,68,Quảng Ninh,Sốt,Không hành vi nguy cơ,MARRIED,YES,Primary School,YES,YES,Bar,Bisexual,YES,NEGATIVE
+0680,Đỗ Nam Minh,19,Thanh Hóa,Sốt,Không hành vi nguy cơ,UNMARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0681,Phạm Trang Hưng,23,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0682,Hoàng Dũng Linh,41,Vĩnh Long,Nổi hạch,Tiêm chích ma túy,Divorced,YES,Illiteracy,YES,NO,Park,Homosexual,NO,POSITIVE
+0683,Bùi Ngọc An,33,Quảng Ninh,Sụt cân,Không hành vi nguy cơ,Cohabiting,YES,Illiteracy,YES,NO,Bar,Heterosexual,YES,NEGATIVE
+0684,Phạm Dũng Tuấn,51,Khánh Hòa,Sốt,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Others,Bisexual,NO,NEGATIVE
+0685,Bùi Vy Châu,67,Quảng Ninh,Sụt cân,Tiêm chích ma túy,UNMARRIED,YES,Junior High School,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0686,Vũ Linh Nam,18,Quảng Ninh,Sụt cân,Quan hệ không bảo vệ,UNMARRIED,NO,Junior High School,NO,NO,Internet,Homosexual,NO,POSITIVE
+0687,Phan Trang Lan,54,Bình Định,Sốt,Không hành vi nguy cơ,MARRIED,YES,Senior High School,YES,YES,Others,Heterosexual,YES,NEGATIVE
+0688,Trần An Dũng,40,Bình Dương,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,NO,YES,Bar,Heterosexual,NO,NEGATIVE
+0689,Đỗ An Quang,27,Quảng Ninh,Sốt,Quan hệ không bảo vệ,MARRIED,YES,Junior High School,YES,NO,Bar,Homosexual,NO,POSITIVE
+0690,Đỗ Dũng Minh,36,Vĩnh Long,Nổi hạch,Quan hệ không bảo vệ,Widowed,YES,Senior High School,YES,NO,Internet,Homosexual,NO,POSITIVE
+0691,Trần Dũng Quang,60,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,Divorced,NO,Primary School,NO,NO,Others,Heterosexual,NO,NEGATIVE
+0692,Bùi Dũng Dũng,70,Vĩnh Long,Sụt cân,Không hành vi nguy cơ,MARRIED,YES,College Degree,NO,NO,Public Bath,Bisexual,YES,NEGATIVE
+0693,Hoàng Bình Quang,52,Hồ Chí Minh,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,NO,College Degree,YES,NO,Public Bath,Homosexual,YES,POSITIVE
+0694,Lê Nam Minh,19,Thanh Hóa,Nổi hạch,Quan hệ không bảo vệ,UNMARRIED,YES,Illiteracy,NO,NO,Internet,Heterosexual,NO,POSITIVE
+0695,Phan Châu Hà,47,Bình Định,Nổi hạch,Không hành vi nguy cơ,MARRIED,NO,College Degree,NO,YES,Bar,Bisexual,NO,NEGATIVE
+0696,Đỗ Quang Phương,34,Đồng Nai,Sụt cân,Nhiều bạn tình,UNMARRIED,YES,Senior High School,YES,YES,Park,Homosexual,YES,NEGATIVE
+0697,Bùi Hà Tuấn,25,Vĩnh Long,Sốt,Tiêm chích ma túy,MARRIED,NO,Junior High School,NO,NO,Public Bath,Heterosexual,YES,POSITIVE
+0698,Đỗ Vy An,46,Hải Phòng,Sụt cân,Quan hệ không bảo vệ,Cohabiting,YES,Senior High School,YES,NO,Internet,Homosexual,NO,POSITIVE
